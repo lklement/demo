@@ -1,14 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "symbol": "ADBE",
+  "companyName": "Adobe, Inc.",
+  "calculationPrice": "close",
+  "open": 310,
+  "openTime": 1613508595376,
+  "close": 314.3,
+  "closeTime": 1614890702890,
+  "high": null,
+  "low": null,
+  "latestPrice": 312.5,
+  "latestSource": "Close",
+  "latestTime": "July 3, 2019",
+  "latestUpdate": 1575202598250,
+  "latestVolume": 1591582,
+  "iexRealtimePrice": 309.32,
+  "iexRealtimeSize": 20,
+  "iexLastUpdated": 1636307183618,
+  "delayedPrice": 0,
+  "delayedPriceTime": 1611813600060,
+  "extendedPrice": 307,
+  "extendedChange": 0.3,
+  "extendedChangePercent": 0.00102,
+  "extendedPriceTime": 1573090520430,
+  "previousClose": 313.29,
+  "change": 4.44,
+  "changePercent": 0.0146,
+  "iexMarketPercent": 0.04312376005201379,
+  "iexVolume": 66927,
+  "avgTotalVolume": 2982084,
+  "iexBidPrice": 0,
+  "iexBidSize": 0,
+  "iexAskPrice": 0,
+  "iexAskSize": 0,
+  "marketCap": 150618374837,
+  "peRatio": 57,
+  "week52High": 314.58,
+  "week52Low": null,
+  "ytdChange": 0.39365408535881957
 }
