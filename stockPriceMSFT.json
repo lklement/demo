@@ -1,6 +1,7 @@
 {
   "symbol": "MSFT",
   "companyName": "Microsoft",
+  "sector" : "Software",
   "calculationPrice": "close",
   "open": 810,
   "openTime": 1613508595376,
