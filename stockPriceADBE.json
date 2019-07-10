@@ -1,6 +1,7 @@
 {
   "symbol": "ADBE",
   "companyName": "Adobe, Inc.",
+  "sector" : "Software",
   "calculationPrice": "close",
   "open": 310,
   "openTime": 1613508595376,
